@@ -24,4 +24,4 @@ El sistema contempla un modelo robusto que integra:
     
 -   **Ofertas y descuentos**: aplicación de promociones asociadas a la cartelera.
 
-![Modelo lógico en Workbench]([/images/picture.jpg](https://github.com/thealexispinel/FilmaniaDB/blob/main/Diagrama.png))
+![Modelo lógico en Workbench]([https://drive.google.com/file/d/124-TMO_EtPkcfdxVIYa8ygEhNlWQ7JYZ/view?usp=drive_link]))
